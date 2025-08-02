@@ -1,4 +1,4 @@
-# Assembly Arithmetic Program (`arith.asm`)
+# Assembly Arithmetic Programs
 
 This is a simple x86-64 Linux assembly program demonstrating basic arithmetic operations and clean exit via syscall.
 
