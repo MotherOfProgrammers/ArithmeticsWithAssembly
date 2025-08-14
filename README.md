@@ -21,5 +21,5 @@ sudo apt install yasm build-essential gdb
 yasm -f elf64 -g dwarf2 arith.asm -o arith.o
 
 # Link the object file into an executable
-ld arith.o -o arith
+ld {program}.o -o {program}
 ```
